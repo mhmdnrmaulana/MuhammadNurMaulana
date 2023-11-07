@@ -4,7 +4,10 @@ I am **Maulana**, aka **Muhammad Nur Maulana**  a Frontend Developer proficient 
 
 ## Connect with me
 
+[![Linkedin: Bayu Setiawan](https://img.shields.io/badge/-MuhammadNur%20Maulana-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammad-nur-maulana-a13a92290/)](https://www.linkedin.com/in/muhammad-nur-maulana-a13a92290/)
 <a href="mailto:muhammadnrmaulana@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-muhammadnurmaulanaunindra-blue?style=flat-square&logo=email"></a>
+[![](https://komarev.com/ghpvc/?username=MuhammadNurMaulana&color=blue&label=Profile%20Views)](https://github.com/MuhammadNurMaulana)
+[![](https://img.shields.io/github/followers/MuhammadNurMaulana?label=GitHub%20Followers)](https://www.linkedin.com/in/muhammad-nur-maulana-a13a92290/)
 
 ## Skills
 
