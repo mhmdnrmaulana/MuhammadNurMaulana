@@ -34,5 +34,5 @@ I am **Maulana**, aka **Muhammad Nur Maulana**  a Frontend Developer proficient 
 
 ## Statistics
 
-<span><img height="150" src="https://github-readme-stats.vercel.app/api?username=MuhammadNurMaulana&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Maulana github stats" /></span>
-<span><img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadNurMaulana&layout=compact&langs_count=6" alt="Maulana github langs" /></span>
+<span><img height="150" src="https://github-readme-stats.vercel.app/api?username=mhmdnrmaulana&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Maulana github stats" /></span>
+<span><img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhmdnrmaulana&layout=compact&langs_count=6" alt="Maulana github langs" /></span>
